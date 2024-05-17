@@ -1,4 +1,4 @@
-👋 Hi, I’m @Snehaa-k
+👋 Hi, I’m @Sneha-k
 
 - 👀 I’m interested in web development, machine learning, and open-source projects.
   
